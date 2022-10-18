@@ -1,3 +1,2 @@
 # Coursera_Capstone
-proyecto final
- ¡Hola, Proyecto Final del Curso!
+¡Hola, Proyecto Final del Curso!
